@@ -1,0 +1,231 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0px;
+	padding: 0px;
+}
+img {
+	height: auto;
+	max-width: 100%;
+}
+
+.start {
+	background: url(images/1_01.png)no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 930px;
+}
+.imgg {
+	margin-top: 20px;
+}
+.anchor {
+	margin-top: 50px;
+	font-size: 16px;
+}
+.anchor nav {
+}
+.anchor nav a {color:#77868f;
+	margin-left: 30px;
+}
+.act{color:#43cb83;
+text-decoration:underline;}
+.bttn {
+}
+.bttn button {
+	border: none;
+    background: #43cb83;
+    padding: 16px 40px;
+    border-radius: 90px;
+    margin-top: 30px;
+    color: #fff;}
+/*-------------------------------------------------*/
+.second {height: 320px;
+    background: #fff;
+}
+.Engineering {
+}
+/*-------------------------------------------------*/
+
+.third {background: #fff;
+    height: 270px
+}
+.learning {
+}
+/*-------------------------------------------------*/
+
+.fifth {background: #fff;
+    height: 834px;
+}
+.video {
+}
+.video img {
+}
+/*-------------------------------------------------*/
+
+.learn {
+}
+.learn h1 {
+	color: #43cb83;
+	width: 440px;
+	margin-top: 110px;
+}
+.learn p {
+	margin-top: 60px;
+	width: 435px;
+}
+.learn b {color: #ffba00;
+    font-size: 30px;
+}
+.learn h2{color: #ff5f72;
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 60px;}
+.learn h3{margin-left: 80px;
+    color: #43cb83;
+    font-size: 30px;
+    display: inline-block;}
+.learn h5{color: #ff5f72;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 40px;
+}
+.learn h6{margin-left: 50px;
+    color: #43cb83;
+    display: inline-block;
+    font-size: 20px;}
+.learn h4{color: #ffba00;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 0px;}
+/*-------------------------------------------------*/
+
+.six {
+	background: url(images/bnr_04.gif)no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 444px;
+}
+/*-------------------------------------------------*/
+
+.seven {background: #fff;
+    height: 550px;
+}
+.our {
+}
+.our h1 {color: #43cb83;
+    font-size: 40px;
+}
+.our p {font-size: 13px;
+    width: 555px;
+    line-height: 25px;
+}
+.france {margin-top: 30px;
+}
+.france h2 {font-size: 30px;
+}
+.france img {margin-left: 10px;
+}
+
+.france p {font-size: 16px;
+    width: 480px;
+}
+.france b {margin-left: 10px;
+
+}
+.france li {display: inline;
+    margin-left: 250px
+}
+.news {
+}
+.news button {border: none;
+    background: #43cb83;
+    padding: 20px 40px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 260px;
+    color: #fff;}
+.right {margin-top: 50px;
+
+}
+.right h2 {width: 450px;
+    font-size: 30px;
+}
+.right p {font-size: 16px;
+    width: 493px;
+}
+.right img {margin-left: 10px;
+}
+.right b {margin-left: 10px;
+}
+.right li {display: inline;
+    margin-left: 250px;
+}
+/*-------------------------------------------------*/
+.last{background: #252c3a;
+    height: 300px;
+    padding-top: 50px;}
+
+.footer{}
+
+.footer img{}
+
+.footer p{color:#7e7e81;}
+
+.program{}
+
+.program h1{font-size: 16px;
+    color: #fff;}
+
+.program ul{}
+
+.program ul li{list-style: none;
+    line-height: 40px;
+    font-size: 14px;
+	color:#7e7e81;}
+
+.program ul li span{color: #4a4d53;}
+
+.Learning{}
+
+.Learning h1{font-size: 16px;
+    color: #fff;}
+
+.Learning ul{}
+
+.Learning ul li{list-style: none;
+    line-height: 40px;
+    font-size: 14px;
+	color:#7e7e81;}
+
+.Support{}
+
+.Support h1{font-size: 16px;
+    color: #fff;}
+
+.Support p{color: #7e7e81;
+    width: 330px;}
+
+.Support h6{color: #7e7e81;
+    background: #fff;
+    padding: 7px 58px 7px 10px;
+    display: inline;}
+
+.Support b{background: #43cb83;
+    padding: 7px 12px 7px 4px;
+	color:#fff;
+}
+/*-------------------------------------------------*/
+.copy{background:#1d232e;
+height:100px;}
+
+.copyy{}
+
+.copyy p{color:#6b6b6b;}
+
+.anchor_site{margin-top: 50px;}
+
+.anchor_site nav{}
+
+.anchor_site nav a{color:#6b6b6b;
+margin-left:20px;
+}
